@@ -1,0 +1,14 @@
+{
+    "comments": "Save this file as config.json and fill in your API credentials.",
+    "secret_key": "your_api_key_here",
+    "account_address": "your_wallet_address_here",
+    "multi_sig": {
+        "authorized_users": [
+            {
+                "comment": "signer 1",
+                "secret_key": "your_signer1_secret_here",
+                "account_address": "your_signer1_address_here"
+            }
+        ]
+    }
+}

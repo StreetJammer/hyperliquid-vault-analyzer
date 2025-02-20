@@ -1,0 +1,9 @@
+numpy>=1.26.4
+pandas>=2.2.3
+optuna>=4.2.1
+scikit-learn
+lightgbm>=4.6.0
+cvxpy>=1.6.0
+hyperliquid-python-sdk>=0.10.0
+python-dotenv>=1.0.1
+xlsxwriter
