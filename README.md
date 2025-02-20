@@ -57,6 +57,8 @@ cp config.example.json config.json
     "secret_key": "your_api_key"
 }
 ```
+Generate API Key from here - https://app.hyperliquid.xyz/API
+
 
 ## Usage
 
